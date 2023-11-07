@@ -302,7 +302,7 @@ a {
   align-items: center;
   flex-direction: column;
   gap: 20px;
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 .footer-logo{
@@ -323,8 +323,6 @@ a {
   .section-b {
     height: 140vh;
   }
-
-  .section-c{}
 }
 
 @keyframes fadeInUp {
